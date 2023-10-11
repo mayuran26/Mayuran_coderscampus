@@ -18,6 +18,8 @@ System.out.println("Enter the Number: ");
 		SecondAssignment obj = new SecondAssignment();
 		
 		obj.enteredNumber(convertInput);		
+		
+		scanner.close();
 
 	}
 

@@ -20,6 +20,7 @@ public class FirstAssignment {
 		else {
 			System.out.println("No!");
 		}
+		scanner.close();
 	}
 
 }

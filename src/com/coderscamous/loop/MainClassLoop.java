@@ -22,6 +22,8 @@ System.out.println("Enter the Number: ");
 		objLoop.loopAssignment(convertInput);	
 		System.out.println("Entered number is : "+convertInput);
 		
+		scanner.close();
+		
 	}
 
 }
